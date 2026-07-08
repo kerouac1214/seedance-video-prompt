@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seedance Video Prompt"
+  short_description: "Craft structured Seedance 2.0 video prompts"
+  default_prompt: "Use $seedance-video-prompt to turn my video idea into a Seedance 2.0 prompt."
